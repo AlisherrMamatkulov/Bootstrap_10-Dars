@@ -1,0 +1,22 @@
+body{
+
+}
+.container{
+    background-image:url("../rasmlar/bg.jpg");
+}
+.f{
+    font-size: 14px;
+    height: 40px;
+}
+.damp{
+    margin-top: 130px;
+    font-size: 20px;
+    display: block;
+}
+.a{
+    padding: 10px;
+    margin-right: 15px;
+}
+.far{
+    background-color: pink;
+}
